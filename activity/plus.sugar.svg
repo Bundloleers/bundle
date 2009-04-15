@@ -1,0 +1,21 @@
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "none">
+	<!ENTITY fill_color "#000000">
+]><svg height="228.57143" id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docname="plus.svg" sodipodi:version="0.32" style="" version="1.0" width="228.57143" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs4" style="">
+    <inkscape:perspective id="perspective10" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" sodipodi:type="inkscape:persp3d" style=""/>
+  </defs>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" id="base" inkscape:current-layer="layer1" inkscape:cx="-109.28571" inkscape:cy="520" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="949" inkscape:window-width="1279" inkscape:window-x="0" inkscape:window-y="25" inkscape:zoom="0.35" objecttolerance="10" pagecolor="#ffffff" showgrid="false" style=""/>
+  <metadata id="metadata7" style="">
+    <rdf:RDF style="">
+      <cc:Work rdf:about="" style="">
+        <dc:format style="">image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" style=""/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" style="" transform="translate(-217.14287,-343.79074)">
+    <rect height="228.57143" id="rect2383" ry="18.571428" style="fill:&fill_color;;stroke:&stroke_color;" width="37.142857" x="311.42856" y="343.79074"/>
+    <rect height="228.57143" id="rect2385" ry="18.571428" style="fill:&fill_color;;stroke:&stroke_color;" transform="matrix(0,-1,1,0,0,0)" width="37.142857" x="-479.50504" y="217.14287"/>
+  </g>
+</svg>

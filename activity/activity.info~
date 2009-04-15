@@ -1,0 +1,9 @@
+[Activity]
+name = Bundle
+service_name = org.laptop.bundle
+class = activity.BundleActivity
+icon = box.sugar
+activity_version = 1
+show_launcher = yes
+mime_types = application/x-zip;application/zip
+

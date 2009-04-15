@@ -1,0 +1,63 @@
+# Romanian translations for practicum package.
+# Copyright (C) 2009 THE practicum'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the practicum package.
+# Department of Math and Computer Science <practicum08@ubu00.richmond.edu>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: practicum 08\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-01 13:01-0400\n"
+"PO-Revision-Date: 2009-04-01 13:04-0400\n"
+"Last-Translator: Department of Math and Computer Science <practicum08@ubu00."
+"richmond.edu>\n"
+"Language-Team: Romanian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+
+#: activity/activity.info:2 activity.py:56
+msgid "Bundle"
+msgstr "Arhiva"
+
+#: GUI.py:177
+msgid "Status: Packed Archive"
+msgstr "Arhiva Impachetata"
+
+#: GUI.py:227
+msgid "Name"
+msgstr "Nume"
+
+#: GUI.py:230
+msgid "Date"
+msgstr "Data"
+
+#: GUI.py:233
+msgid "Object ID"
+msgstr "Object ID"
+
+#: GUI.py:293
+msgid "Add Item"
+msgstr "Adauga"
+
+#: GUI.py:309
+msgid "Remove Item"
+msgstr "Sterge"
+
+#: GUI.py:318
+msgid "Pack Bundle"
+msgstr "Impacheteaza Arhiva"
+
+#: GUI.py:326
+msgid "Extract Item"
+msgstr "Despacheteaza un element"
+
+#: GUI.py:335
+msgid "Extract All"
+msgstr "Despecheteaza tot"
+
+#: GUI.py:366
+msgid "Status: Unpacked Archive / List of Files"
+msgstr "Arhiva Ne-impachetata/Lista de fisiere"
